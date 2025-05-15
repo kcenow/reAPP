@@ -33,4 +33,4 @@
 <br />
 
 <h1>:copyright: Copyright <a href="#-reapp" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenow &#128640; KC. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation. CMD® and all related elements are trademarks of and © Microsoft Corporation.
+© Kristian Cenow &#128640; KC. All rights reserved.
