@@ -11,7 +11,7 @@
 
 <h1>:cd: Install <a href="#-reapp" title="Go to Navigation">[↑]</a></h1>
 
-* To select which application you want to restart, just move "<b>_reAPP.exe</b>" in the directory where your target application is located. Then Rename it to "<b>_targetappname.exe</b>", where targetappname is the name of the application you want to restart, customize _reAPP.ini file and then start the renamed application, it will be installed automaticaly and Uninstall shortcut will be created in current directory!
+* To select which application you want to restart, just move "<b>_reAPP.exe</b>" in the directory where your target application is located. Then Rename it to "<b>_targetappname.exe</b>", where targetappname is the name of the application you want to restart, customize _reAPP.ini file and then start the renamed application. It will be installed automaticaly and Uninstall shortcut will be created in current directory!
 
 <br />
 
