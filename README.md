@@ -5,7 +5,7 @@
 
 <h1>:page_facing_up: Description <a href="#-reapp" title="Go to Navigation">[↑]</a></h1>
 
-* This application restarts every X minutes/hours/days target application and also on logon. You can customize it through _reAPP.ini file!
+* This windows application restarts every X minutes/hours/days target application and also on logon. You can customize it through _reAPP.ini file!
 
 <br />
 
