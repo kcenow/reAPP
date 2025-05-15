@@ -33,4 +33,4 @@
 <br />
 
 <h1>:copyright: Copyright <a href="#-reapp" title="Go to Navigation">[↑]</a></h1>
-© Kristian Cenow &#128640; KC. All rights reserved.
+© Kristian Cenow &#128640; KC. All rights reserved!
